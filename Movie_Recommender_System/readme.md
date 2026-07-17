@@ -6,6 +6,7 @@ Recommendation Pipeline:
 - Performed feature engineering by combining relevant textual attributes into a unified representation.
 - Applied CountVectorizer for text vectorization.
 - Computed Cosine Similarity to identify and recommend similar movies.
+- Used pickle module to use the data in "app" file
 
 Features:
 - Built an interactive Streamlit web application.
@@ -14,3 +15,6 @@ Features:
 
 Upcoming Features:
 - Deploy the application for public access.
+
+
+## PS: There was an error in directly transferring dataframes and matrices to the "app" file therefore, the required conversions were performed.
