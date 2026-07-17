@@ -1,5 +1,5 @@
 ## This project implements a content-based movie recommendation system using the TMDB 5000 Movies and TMDB 5000 Credits datasets. 
-## It recommends movies similar to a selected title by analyzing metadata such as genres, keywords, cast, crew, and movie overviews.
+It recommends movies similar to a selected title by analyzing metadata such as genres, keywords, cast, crew, and movie overviews.
 
 # Recommendation Pipeline:
 - Cleaned and preprocessed movie metadata.
